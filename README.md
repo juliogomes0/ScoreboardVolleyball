@@ -11,6 +11,6 @@ Good use and studies
 
 Last update : 02/28/2017
 
-![Alt Text](https://github.com/juliogomes0/ScoreboardVolleyball/blob/master/demons.gif)
+![Demonstration](https://github.com/juliogomes0/ScoreboardVolleyball/blob/master/demons.gif)
 
 
