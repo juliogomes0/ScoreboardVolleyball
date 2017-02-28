@@ -12,5 +12,4 @@ Good use and studies
 
 Last update : 02/28/2017
 
-att : Sorry , i not speak english very well
 
