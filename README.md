@@ -1,6 +1,8 @@
 # ScoreboardVolleyball
 This program made in VB , in IDE visual studio. With various functionality of a scoreboard, stopwatches, sets, teams name, points ...  
 
+***********************************************************************************************
+
 # About
 
 Using IDE Visual Studio 2013 
@@ -16,6 +18,8 @@ Last update : 02/28/2017
 # Demonstration :
 
 ![Demonstration](https://github.com/juliogomes0/ScoreboardVolleyball/blob/master/demons.gif)
+
+***********************************************************************************************
 
 # License
 
