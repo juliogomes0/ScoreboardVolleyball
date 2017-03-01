@@ -1,5 +1,5 @@
 # ScoreboardVolleyball
-# This program made in VB , in IDE visual studio. With various functionality of a scoreboard, stopwatches, sets, teams name, points ...  
+This program made in VB , in IDE visual studio. With various functionality of a scoreboard, stopwatches, sets, teams name, points ...  
 
 By Júlio Gomes 
 
